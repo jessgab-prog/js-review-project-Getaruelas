@@ -1,4 +1,4 @@
-# JavaScript Review Project by Jess_Gabriel_Getaruelas
+# JavaScript Review Project by Jess Gabriel A. Getaruelas
 This project is a review of JavaScript concepts, from beginner to advanced.
 
 About This Project
